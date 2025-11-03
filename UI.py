@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter import messagebox
-from Exercise1 import DataBase
+from Data_base import DataBase
 from Data_treeview import DataTreeview
 from Validation import Validate_data
 
@@ -198,3 +198,4 @@ class MainWindow():
 
 if __name__ == "__main__":
     app = MainWindow()
+
